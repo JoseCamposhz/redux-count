@@ -7,7 +7,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+button {
+  border-radius: 30px;
+  margin: 4px;
+  padding: 10px 15px;
+  background-color: white;
+  color: #282C34;
+}
+
+.error {
+  color: red;
 }
